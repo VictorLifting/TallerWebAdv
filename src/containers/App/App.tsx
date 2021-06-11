@@ -26,7 +26,7 @@ export const App =()=>{
     return(    
 
     <body >
-        <HashRouter>
+        <HashRouter basename={process.env.PUBLIC_URL}>
 
             <Link to="/home">Ir al Home </Link>
             <Link to="/second">Ir al second </Link>

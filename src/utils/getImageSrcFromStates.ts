@@ -1,4 +1,5 @@
-    const baseExtensionsUrl = '/images/Altar/';
+    const baseExtensionsUrl = `${process.env.PUBLIC_URL}/images/Altar/`;
+    
 
     export const getImageSrcFromStates = (stateName: string = '') => {
 
@@ -15,10 +16,10 @@
         return`${baseExtensionsUrl}Buda/buda2.png`;
 
       case 'iluminacion1':
-        return`${baseExtensionsUrl}Iluminacion/iluminacion1.png`;
+        return`${baseExtensionsUrl}iluminacion/iluminacion1.png`;
 
         case 'iluminacion2':
-          return`${baseExtensionsUrl}Iluminacion/iluminacion2.png`;
+          return`${baseExtensionsUrl}iluminacion/iluminacion2.png`;
         
     
      // default:

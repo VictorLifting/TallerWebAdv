@@ -95,6 +95,7 @@ export const AltarCreator: React.FC<AltarCreatorProps> =() => {
         </label>
 
         <button onClick={handleSoporte1Change}>
+            <img src="" alt="" />
             soporte1
         </button>
 
