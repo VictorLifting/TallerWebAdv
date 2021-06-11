@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TallerWebAdv/static/css/main.f66bca62.chunk.css",
+    "main.js": "/TallerWebAdv/static/js/main.528debf8.chunk.js",
+    "main.js.map": "/TallerWebAdv/static/js/main.528debf8.chunk.js.map",
+    "runtime-main.js": "/TallerWebAdv/static/js/runtime-main.f2e69c1d.js",
+    "runtime-main.js.map": "/TallerWebAdv/static/js/runtime-main.f2e69c1d.js.map",
+    "static/js/2.c84ae8de.chunk.js": "/TallerWebAdv/static/js/2.c84ae8de.chunk.js",
+    "static/js/2.c84ae8de.chunk.js.map": "/TallerWebAdv/static/js/2.c84ae8de.chunk.js.map",
+    "index.html": "/TallerWebAdv/index.html",
+    "static/css/main.f66bca62.chunk.css.map": "/TallerWebAdv/static/css/main.f66bca62.chunk.css.map",
+    "static/js/2.c84ae8de.chunk.js.LICENSE.txt": "/TallerWebAdv/static/js/2.c84ae8de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e69c1d.js",
+    "static/js/2.c84ae8de.chunk.js",
+    "static/css/main.f66bca62.chunk.css",
+    "static/js/main.528debf8.chunk.js"
+  ]
+}
