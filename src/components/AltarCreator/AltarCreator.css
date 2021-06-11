@@ -1,0 +1,14 @@
+.background{
+    display: flex;
+    width: 100%;
+}
+.Settings{
+
+    background-color: #EDE5DF;
+    width: 50%;
+    height: 100vh;
+    color: #444444;
+    margin-top: 0px;
+    display: block;
+ 
+}

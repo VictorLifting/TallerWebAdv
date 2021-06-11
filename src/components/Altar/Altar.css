@@ -1,0 +1,59 @@
+.Altar{
+    background-color: #BACFDF;
+    width: 50%;
+    height: 100vh;
+    color: #444444;
+    margin-top: 0px;
+}
+
+.piso{
+    position: absolute;
+    bottom: -25px;
+    width: 49%;
+}
+.soporte {
+    position: absolute;
+    bottom: 0px;
+    margin-left: 100px;
+    z-index: 1  ;
+}
+.soporte2 {
+    position: absolute;
+    bottom: 0px;
+    margin-left: 100px;
+    z-index: 1  ;
+}
+
+.buda{
+    position: absolute;
+    bottom: 100px;
+    margin-left: 200px;
+    z-index: 2 ;
+}
+.buda2{
+    position: absolute;
+    bottom: 100px;
+    margin-left: 200px;
+    z-index: 2 ;
+}
+.iluminacion1{
+    position: absolute;
+    top: 100px;
+    margin-left: 200px;
+    z-index: 2 ;
+}
+.iluminacion2{
+    position: absolute;
+    top: 100px;
+    margin-left: 200px;
+    z-index: 2 ;
+}
+
+
+.Settings{
+    background-color: #EDE5DF;
+    width: 50%;
+    height: 100vh;
+    color: #444444;
+    margin-top: 0px;
+}
