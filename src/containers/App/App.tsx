@@ -28,19 +28,21 @@ export const App =()=>{
     <body >
         <HashRouter basename={process.env.PUBLIC_URL}>
 
-            <Link to="/home">Ir al Home </Link>
-            <Link to="/second">Ir al second </Link>
 
-            <Route path="/home" render={()=> <h1> home </h1>}/>
-            <Route path="/second" render={()=> {
+            <Route path="/home" render={()=> {
 
 
             return <main>
 
-                <AltarCreator/>
+            <AltarCreator/>
 
             </main>
-        }}/>
+            }
+        
+               
+
+        
+        }/>
         
 
         </HashRouter>

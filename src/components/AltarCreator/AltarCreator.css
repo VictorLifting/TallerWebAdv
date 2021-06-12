@@ -12,3 +12,24 @@
     display: block;
  
 }
+.option{
+    margin: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(204, 221, 221);
+}
+
+.btn{
+    background-color: white;
+    margin: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    border-color: none;
+    box-shadow: 1px 1px 3px wheat;
+    padding: 10px;
+}
+.subtitle{
+    margin-left: 20px;
+    font-weight: bold;
+}

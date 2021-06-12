@@ -14,12 +14,19 @@
         return`${baseExtensionsUrl}Buda/buda.png`;
       case 'buda2':
         return`${baseExtensionsUrl}Buda/buda2.png`;
+        case 'buda3':
+          return`${baseExtensionsUrl}Buda/buda3.png`;
 
       case 'iluminacion1':
         return`${baseExtensionsUrl}iluminacion/iluminacion1.png`;
 
         case 'iluminacion2':
           return`${baseExtensionsUrl}iluminacion/iluminacion2.png`;
+
+        case 'iluminacion1':
+            return`${baseExtensionsUrl}iluminacion/iluminacion2.png`;
+            case 'iluminacion3':
+              return`${baseExtensionsUrl}iluminacion/iluminacion3.png`;
         
     
      // default:
